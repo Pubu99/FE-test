@@ -1,0 +1,102 @@
+.event-card8-child {
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-base);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.access-time-icon1,
+.event-card8-child,
+.pm1 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+}
+.access-time-icon1 {
+  width: 17.24%;
+  right: 82.76%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.pm1 {
+  width: 76.72%;
+  left: 23.28%;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.date4,
+.time1 {
+  position: absolute;
+  height: 4.17%;
+  width: 30.21%;
+  top: 90.21%;
+  right: 19.01%;
+  bottom: 5.63%;
+  left: 50.78%;
+}
+.date4 {
+  top: 90.42%;
+  right: 62.5%;
+  bottom: 5.42%;
+  left: 7.29%;
+  color: var(--color-azure-100);
+}
+.fmd-good-icon1,
+.viharamahadevi-open-air1 {
+  position: relative;
+  height: 20px;
+  flex-shrink: 0;
+}
+.fmd-good-icon1 {
+  width: 20px;
+  overflow: hidden;
+}
+.viharamahadevi-open-air1 {
+  width: 313px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.location1,
+.natamu-neda1 {
+  position: absolute;
+  display: flex;
+}
+.location1 {
+  top: calc(50% + 164px);
+  left: calc(50% - 164px);
+  width: 340px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+  color: var(--color-khaki-100);
+}
+.natamu-neda1 {
+  height: 6.04%;
+  width: 66.67%;
+  top: 76.04%;
+  left: 7.29%;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  align-items: center;
+}
+.event-card8 {
+  position: absolute;
+  top: 540px;
+  left: 1296px;
+  width: 384px;
+  height: 480px;
+  text-align: left;
+  font-size: var(--montserrat-semibold-14-size);
+  color: var(--neutrals);
+  font-family: var(--font-poppins);
+}

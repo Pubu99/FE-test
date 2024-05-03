@@ -1,0 +1,110 @@
+.oeder-summary-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--neutrals);
+  border: 2px solid var(--color-orange-200);
+  box-sizing: border-box;
+  width: 528px;
+  height: 469px;
+}
+.category1,
+.quantity {
+  position: absolute;
+  top: 103px;
+  left: 53px;
+  font-weight: 500;
+}
+.quantity {
+  left: 387px;
+}
+.div17,
+.standing3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.div17 {
+  left: 375px;
+  text-align: center;
+}
+.div18,
+.vip3 {
+  position: absolute;
+  top: 90px;
+  left: 0;
+}
+.div18 {
+  left: 372px;
+  text-align: center;
+}
+.lkr11,
+.total2 {
+  position: absolute;
+  top: 154px;
+  left: 0;
+  font-weight: 600;
+}
+.lkr11 {
+  left: 224px;
+  text-align: right;
+  display: flex;
+  align-items: center;
+  width: 198px;
+}
+.div19,
+.genaral3 {
+  position: absolute;
+  top: 45px;
+  left: 0;
+}
+.div19 {
+  left: 375px;
+  text-align: center;
+}
+.ticket-quantities {
+  position: absolute;
+  top: 158px;
+  left: 53px;
+  width: 422px;
+  height: 184px;
+}
+.oeder-summary-inner,
+.oeder-summary-item {
+  position: absolute;
+  top: 142px;
+  left: 53px;
+  border-radius: var(--br-89xl);
+  background-color: var(--color-gray-900);
+  width: 422px;
+  height: 2px;
+}
+.oeder-summary-inner {
+  top: 296px;
+}
+.pay-now-button {
+  position: absolute;
+  top: 391px;
+  left: 178px;
+  cursor: pointer;
+}
+.order-summary {
+  position: absolute;
+  top: 14px;
+  left: 134px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  color: var(--color-mediumblue);
+}
+.oeder-summary {
+  position: absolute;
+  top: 493px;
+  left: 1128px;
+  width: 528px;
+  height: 469px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--fade-black);
+  font-family: var(--font-poppins);
+}

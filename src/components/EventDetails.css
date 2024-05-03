@@ -1,0 +1,273 @@
+.sell-icon {
+  position: absolute;
+  height: 13.62%;
+  width: 8.74%;
+  top: 0;
+  right: 91.26%;
+  bottom: 86.38%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.no-of-tickets2 {
+  position: absolute;
+  top: 1px;
+  left: 41px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 154px;
+  height: 30px;
+}
+.b123456,
+.div15,
+.lkr10,
+.successful,
+.t123456 {
+  position: absolute;
+  top: 1px;
+  left: 200px;
+  display: flex;
+  align-items: center;
+  width: 139px;
+}
+.b123456,
+.lkr10,
+.successful,
+.t123456 {
+  top: 52px;
+  left: 158px;
+  width: 144px;
+  height: 30px;
+}
+.b123456,
+.lkr10,
+.successful {
+  top: 103px;
+  left: 179px;
+}
+.lkr10,
+.successful {
+  top: 154px;
+  left: 222px;
+}
+.lkr10 {
+  top: 205px;
+  left: 149px;
+}
+.no-of-tickets1,
+.sell-icon1 {
+  position: absolute;
+  height: 58.17%;
+  width: 58.37%;
+  top: 41.58%;
+  right: 41.63%;
+  bottom: 0.25%;
+  left: 0;
+}
+.sell-icon1 {
+  height: 100%;
+  width: 21.48%;
+  top: 0;
+  right: 78.52%;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ticket-id1 {
+  position: absolute;
+  top: 1px;
+  left: 41px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 108px;
+}
+.payments-icon,
+.ticket-id {
+  position: absolute;
+  height: 7.92%;
+  width: 23.76%;
+  top: 54.21%;
+  right: 76.24%;
+  bottom: 37.87%;
+  left: 0;
+}
+.payments-icon {
+  height: 100%;
+  width: 14.95%;
+  top: 0;
+  right: 85.05%;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.amount2 {
+  position: absolute;
+  top: 1px;
+  left: 41px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 173px;
+}
+.amount1,
+.label-important-icon {
+  position: absolute;
+  height: 7.92%;
+  width: 34.13%;
+  top: 92.08%;
+  right: 65.87%;
+  bottom: 0;
+  left: 0;
+}
+.label-important-icon {
+  height: 100%;
+  width: 18.71%;
+  top: 0;
+  right: 81.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.booking-id1 {
+  position: absolute;
+  top: 1px;
+  left: 41px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 130px;
+}
+.booking-id,
+.booking-status {
+  position: absolute;
+  height: 7.92%;
+  width: 27.27%;
+  top: 66.83%;
+  right: 72.73%;
+  bottom: 25.25%;
+  left: 0;
+}
+.booking-status {
+  width: 34.13%;
+  top: 79.46%;
+  right: 65.87%;
+  bottom: 12.62%;
+}
+.pm4 {
+  position: absolute;
+  top: 1px;
+  left: 39px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 199px;
+  height: 30px;
+}
+.access-time-icon4 {
+  position: absolute;
+  height: 100%;
+  width: 13.45%;
+  top: 0;
+  right: 86.55%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div16,
+.time4 {
+  position: absolute;
+}
+.time4 {
+  top: 117px;
+  left: 243px;
+  width: 238px;
+  height: 32px;
+}
+.div16 {
+  top: 2px;
+  left: 41px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 154px;
+}
+.date-range-icon4 {
+  position: absolute;
+  height: 100%;
+  width: 16.41%;
+  top: 0;
+  right: 83.59%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.date7,
+.fmd-good-icon4 {
+  position: absolute;
+  top: 117px;
+  left: 0;
+  width: 195px;
+  height: 32px;
+}
+.fmd-good-icon4 {
+  height: 86.49%;
+  width: 5.1%;
+  top: 8.11%;
+  right: 94.9%;
+  bottom: 5.41%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.viharamahadevi-open-air4 {
+  position: absolute;
+  top: 0;
+  left: 41px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 586px;
+  height: 37px;
+}
+.location3 {
+  position: absolute;
+  height: 9.16%;
+  width: 100%;
+  top: 15.1%;
+  right: 0;
+  bottom: 75.74%;
+  left: 0;
+}
+.natamu-neda4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--tradegothic-bold-40-size);
+  display: flex;
+  color: var(--color-black);
+  align-items: center;
+  width: 627px;
+  height: 50px;
+}
+.event-details2 {
+  position: absolute;
+  height: 84.17%;
+  width: 45.04%;
+  top: 2.29%;
+  right: 20.69%;
+  bottom: 13.54%;
+  left: 34.27%;
+  text-align: left;
+  font-size: var(--assignment-1-small-title-size);
+  color: var(--fade-black);
+  font-family: var(--font-outfit);
+}

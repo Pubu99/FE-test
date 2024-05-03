@@ -1,0 +1,93 @@
+.header-2-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--fade-black);
+}
+.home {
+  width: 96px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 32px;
+  flex-shrink: 0;
+  mix-blend-mode: normal;
+}
+.group-child3,
+.log-in5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 96px;
+  height: 32px;
+}
+.group-child3 {
+  border-radius: var(--br-31xl);
+  background-color: var(--neutrals);
+}
+.log-in5 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  mix-blend-mode: normal;
+}
+.rectangle-parent4 {
+  width: 96px;
+  position: relative;
+  height: 32px;
+  font-size: var(--menu-16px-regular-size);
+  color: var(--color-black);
+}
+.header-topics {
+  position: absolute;
+  height: 29.63%;
+  width: 30%;
+  top: 35.19%;
+  right: 6.25%;
+  bottom: 35.19%;
+  left: 63.75%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-45xl);
+}
+.easyticketlk-txt3 {
+  line-break: anywhere;
+  width: 100%;
+}
+.easyticketlk7 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+}
+.logo {
+  position: absolute;
+  height: 43.52%;
+  width: 15%;
+  top: 27.78%;
+  right: 78.75%;
+  bottom: 28.7%;
+  left: 6.25%;
+  text-align: left;
+  font-size: var(--tradegothic-bold-40-size);
+  font-family: var(--font-outfit);
+}
+.header-2 {
+  width: 1920px;
+  max-width: 100%;
+  height: 108px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--neutrals);
+  font-family: var(--font-poppins);
+}

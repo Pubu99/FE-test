@@ -1,0 +1,47 @@
+.group-child7 {
+  top: 0;
+  border-radius: var(--br-3xs);
+  height: 300px;
+  object-fit: cover;
+}
+.group-child7,
+.group-child8,
+.rectangle-parent8 {
+  position: absolute;
+  left: 0;
+  width: 240px;
+}
+.group-child8 {
+  top: 254px;
+  border-radius: 0 0 var(--br-3xs) var(--br-3xs);
+  background-color: var(--fade-black);
+  height: 46px;
+}
+.rectangle-parent8 {
+  top: 0;
+  height: 300px;
+}
+.card,
+.music1 {
+  position: absolute;
+}
+.music1 {
+  top: 260px;
+  left: 46px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 147px;
+  height: 34px;
+}
+.card {
+  top: 0;
+  left: 0;
+  width: 240px;
+  height: 300px;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--neutrals);
+  font-family: var(--font-outfit);
+}

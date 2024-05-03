@@ -1,0 +1,11 @@
+.card-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1392px;
+  height: 300px;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--neutrals);
+  font-family: var(--font-outfit);
+}

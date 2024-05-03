@@ -1,0 +1,116 @@
+.event-card1-child,
+.event-card1-inner {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-base);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.event-card1-inner {
+  height: 57.5%;
+  width: 90.1%;
+  top: 3.96%;
+  right: 4.95%;
+  bottom: 38.54%;
+  left: 4.95%;
+  border-radius: var(--br-5xl);
+  display: none;
+}
+.natamu-neda3 {
+  position: absolute;
+  height: 6.04%;
+  width: 66.67%;
+  top: 76.04%;
+  left: 7.29%;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+.fmd-good-icon3,
+.viharamahadevi-open-air3 {
+  position: relative;
+  height: 20px;
+  flex-shrink: 0;
+}
+.fmd-good-icon3 {
+  width: 20px;
+  overflow: hidden;
+}
+.viharamahadevi-open-air3 {
+  width: 313px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.location2 {
+  position: absolute;
+  top: calc(50% + 164px);
+  left: calc(50% - 164px);
+  width: 340px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+  color: var(--color-khaki-100);
+}
+.date-range-icon3,
+.div14 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+}
+.date-range-icon3 {
+  width: 17.24%;
+  right: 82.76%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div14 {
+  width: 76.72%;
+  left: 23.28%;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.date6,
+.time3 {
+  position: absolute;
+  height: 4.17%;
+  width: 30.21%;
+}
+.date6 {
+  top: 90.42%;
+  right: 62.5%;
+  bottom: 5.42%;
+  left: 7.29%;
+  color: var(--color-azure-100);
+}
+.time3 {
+  top: 90.21%;
+  right: 19.01%;
+  bottom: 5.63%;
+  left: 50.78%;
+}
+.event-card1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 384px;
+  height: 480px;
+  text-align: left;
+  font-size: var(--montserrat-semibold-14-size);
+  color: var(--neutrals);
+  font-family: var(--font-poppins);
+}

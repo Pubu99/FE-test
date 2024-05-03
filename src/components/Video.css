@@ -1,0 +1,90 @@
+.your-event-your {
+  position: absolute;
+  top: 33px;
+  left: 121px;
+  font-weight: 600;
+  font-family: var(--font-raleway);
+  display: none;
+  width: 965px;
+  height: 112px;
+  backdrop-filter: blur(4px);
+}
+.connecting-moments-creating {
+  position: absolute;
+  top: 165px;
+  left: 121px;
+  font-size: var(--tradegothic-bold-40-size);
+  font-weight: 100;
+  text-align: justify;
+  display: flex;
+  align-items: center;
+  width: 730px;
+  height: 49px;
+  text-shadow: 0 4px 10px rgba(255, 255, 255, 0.54);
+}
+.our-approch-frame {
+  position: absolute;
+  top: 653px;
+  left: 327px;
+  filter: blur(10px);
+  border-radius: var(--br-101xl);
+  background-color: var(--color-gray-400);
+  width: 1266px;
+  height: 229px;
+  overflow: hidden;
+}
+.our-approach,
+.your-event {
+  position: absolute;
+  backdrop-filter: blur(4px);
+}
+.our-approach {
+  top: 653px;
+  left: 368px;
+  font-size: var(--font-size-131xl);
+  font-weight: 800;
+  text-align: justify;
+  display: flex;
+  align-items: center;
+  width: 1185px;
+  height: 229px;
+}
+.your-event {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+}
+.component-1 {
+  position: absolute;
+  top: 53px;
+  left: 121px;
+  width: 965px;
+  height: 112px;
+  font-family: var(--font-raleway);
+}
+.experience-the-freedom {
+  position: absolute;
+  top: 931px;
+  left: 120px;
+  font-size: var(--font-size-13xl);
+  font-weight: 100;
+  text-align: center;
+  display: inline-block;
+  width: 1679px;
+  height: 79px;
+}
+.video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-77xl);
+  color: var(--neutrals);
+  font-family: var(--font-outfit);
+}

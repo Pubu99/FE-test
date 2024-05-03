@@ -1,0 +1,181 @@
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.download-ticket-child {
+  position: absolute;
+  top: 295px;
+  left: 216px;
+  border-radius: var(--br-xs);
+  background-color: var(--neutrals);
+  border: 4px solid rgba(255, 163, 26, 0.5);
+  box-sizing: border-box;
+  width: 1488px;
+  height: 528px;
+}
+.see-more-button1 {
+  position: absolute;
+  top: 434px;
+  left: 798px;
+}
+.ticket-price-details-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--neutrals);
+  border: 2px solid var(--color-mediumseagreen-100);
+  box-sizing: border-box;
+  width: 288px;
+  height: 247px;
+}
+.div,
+.standing,
+.tickets {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.tickets {
+  top: 9px;
+  left: 37px;
+  font-size: var(--assignment-1-small-title-size);
+  color: var(--color-mediumblue);
+  text-align: center;
+  justify-content: center;
+  width: 213px;
+  height: 43.4px;
+}
+.div,
+.standing {
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  width: 96px;
+  height: 29px;
+}
+.div {
+  left: 168px;
+  text-align: right;
+  width: 72px;
+}
+.div1,
+.genaral,
+.ticket-price-model-1 {
+  position: absolute;
+  top: 69px;
+  left: 24px;
+  width: 240px;
+  height: 29px;
+}
+.div1,
+.genaral {
+  top: 0.1px;
+  left: 0;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 96px;
+}
+.div1 {
+  top: 0;
+  left: 168px;
+  color: var(--color-black);
+  text-align: right;
+  width: 72px;
+}
+.ticket-price-model-2,
+.ticket-price-model-3 {
+  position: absolute;
+  top: 128px;
+  left: 24px;
+  width: 240px;
+  height: 29.1px;
+}
+.ticket-price-model-3 {
+  top: 187px;
+  height: 29px;
+}
+.ticket-price-details-inner,
+.ticket-price-details-item {
+  position: absolute;
+  top: 112.4px;
+  left: 30px;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-gray-900);
+  width: 228px;
+  height: 1.2px;
+}
+.ticket-price-details-inner {
+  top: 171.5px;
+}
+.ticket-price-details {
+  position: absolute;
+  top: 109px;
+  left: 1104px;
+  width: 288px;
+  height: 247px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--fade-black);
+  font-family: var(--font-outfit);
+}
+.details-main-card-child {
+  position: absolute;
+  top: 36px;
+  left: 429px;
+  border-radius: var(--br-29xl);
+  background-color: var(--fade-black);
+  width: 3px;
+  height: 408px;
+  opacity: 0.24;
+}
+.details-main-card,
+.ticket-details {
+  position: absolute;
+  top: 319px;
+  left: 264px;
+  width: 1392px;
+  height: 480px;
+}
+.ticket-details {
+  top: 0;
+  left: 32px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 304px;
+  height: 63px;
+}
+.topic-1-inner,
+.topic-12 {
+  position: absolute;
+  top: 18px;
+  left: 0;
+  width: 16px;
+  height: 28px;
+}
+.topic-12 {
+  top: 171px;
+  left: 216px;
+  width: 336px;
+  height: 63px;
+  text-align: left;
+  font-size: var(--tradegothic-bold-40-size);
+  color: var(--color-black);
+  font-family: var(--font-outfit);
+}
+.download-ticket {
+  width: 100%;
+  height: 1303px;
+  position: relative;
+  background-color: var(--neutrals);
+  opacity: 0;
+}
+.download-ticket.animate {
+  animation: 1s ease 0s 1 normal forwards fade-in;
+}

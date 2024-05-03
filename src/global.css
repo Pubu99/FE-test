@@ -1,0 +1,120 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Avenir:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=TradeGothic+LT+Extended:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-outfit: Outfit;
+  --font-poppins: Poppins;
+  --menu-16px-regular: Roboto;
+  --body-medium-400: "Public Sans";
+  --font-avenir: Avenir;
+  --font-raleway: Raleway;
+  --montserrat-regular-12: Montserrat;
+  --tradegothic-bold-40: "TradeGothic LT Extended";
+  --assignment-1-small-title: "Open Sans";
+
+  /* font sizes */
+  --tradegothic-bold-40-size: 40px;
+  --menu-16px-regular-size: 16px;
+  --font-size-xl: 20px;
+  --montserrat-semibold-14-size: 14px;
+  --font-size-53xl: 72px;
+  --font-size-13xl: 32px;
+  --font-size-17xl: 36px;
+  --assignment-1-small-title-size: 24px;
+  --font-size-lg: 18px;
+  --montserrat-regular-12-size: 12px;
+  --font-size-29xl: 48px;
+  --font-size-77xl: 96px;
+  --font-size-131xl: 150px;
+  --font-size-3xl: 22px;
+
+  /* Colors */
+  --neutrals: #fff;
+  --color-black: #000;
+  --color-gray-100: #79747e;
+  --fade-black: #1e1e1e;
+  --color-gray-200: #1c1b1f;
+  --blackish-green: #112211;
+  --color-gray-300: #111;
+  --color-gray-400: rgba(0, 0, 0, 0.12);
+  --color-gray-500: rgba(30, 30, 30, 0.32);
+  --color-gray-600: rgba(30, 30, 30, 0.36);
+  --color-gray-700: rgba(30, 30, 30, 0.6);
+  --color-gray-800: rgba(30, 30, 30, 0.5);
+  --color-gray-900: rgba(30, 30, 30, 0.2);
+  --color-darkgray: #999;
+  --color-khaki-100: #f3f169;
+  --color-cornflowerblue: #2c9cf0;
+  --color-azure-100: #e2f3f5;
+  --color-azure-200: rgba(226, 243, 245, 0.25);
+  --color-mediumseagreen-100: #17b978;
+  --color-mediumseagreen-200: rgba(23, 185, 120, 0.5);
+  --color-mediumseagreen-300: rgba(23, 185, 120, 0.1);
+  --color-orange-100: #ffa31a;
+  --color-orange-200: rgba(255, 163, 26, 0.6);
+  --color-orange-300: rgba(255, 163, 26, 0.08);
+  --color-mediumblue: #482ff7;
+  --white-white-90: #cfd3d7;
+  --color-slategray: #77808b;
+  --color-gainsboro: #d9d9d9;
+  --gray-700: #475156;
+  --color-darkslategray-100: #333;
+  --color-darkturquoise: #22d1ee;
+  --color-crimson: #ee1d52;
+  --color-dimgray-100: #666;
+  --color-dimgray-200: rgba(102, 102, 102, 0.25);
+  --color-dimgray-300: rgba(102, 102, 102, 0.8);
+  --mint-green: #8dd3bb;
+
+  /* Gaps */
+  --gap-45xl: 64px;
+  --gap-6xs: 7px;
+  --gap-29xl: 48px;
+  --gap-5xs: 8px;
+  --gap-21xl: 40px;
+  --gap-base: 16px;
+  --gap-5xl: 24px;
+  --gap-9xs: 4px;
+  --gap-4xl: 23px;
+
+  /* Paddings */
+  --padding-7xs: 6px;
+  --padding-11xl: 30px;
+  --padding-47xl: 66px;
+  --padding-81xl: 100px;
+  --padding-9xs: 4px;
+  --padding-mini: 15px;
+  --padding-xs: 12px;
+  --padding-xl: 20px;
+  --padding-5xs: 8px;
+  --padding-base: 16px;
+
+  /* Border radiuses */
+  --br-31xl: 50px;
+  --br-xl: 20px;
+  --br-base: 16px;
+  --br-17xl: 36px;
+  --br-29xl: 48px;
+  --br-xs: 12px;
+  --br-5xl: 24px;
+  --br-10xs: 3px;
+  --br-9xs: 4px;
+  --br-101xl: 120px;
+  --br-89xl: 108px;
+  --br-13xl: 32px;
+  --br-3xs: 10px;
+  --br-21xl: 40px;
+}

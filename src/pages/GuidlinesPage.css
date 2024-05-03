@@ -1,0 +1,74 @@
+.agree-continue,
+.back {
+  position: absolute;
+  top: 788px;
+  left: 1473px;
+  cursor: pointer;
+}
+.back {
+  left: 1224px;
+}
+.all-tickets-purchased {
+  margin-bottom: 22px;
+}
+.all-tickets-purchased-are-non- {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 27px;
+}
+.all-tickets-purchased-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 150.05%;
+  font-weight: 500;
+  display: inline-block;
+  width: 1488px;
+}
+.rules {
+  position: absolute;
+  top: 251px;
+  left: 216px;
+  width: 1488px;
+  height: 492px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--fade-black);
+  font-family: var(--font-poppins);
+}
+.terms-and-conditions {
+  position: absolute;
+  top: 0;
+  left: 32px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 544px;
+  height: 63px;
+}
+.topic-1-child1,
+.topic-14 {
+  position: absolute;
+  top: 18px;
+  left: 0;
+  width: 16px;
+  height: 28px;
+}
+.topic-14 {
+  top: 157px;
+  left: 120px;
+  width: 576px;
+  height: 63px;
+  text-align: left;
+  font-size: var(--tradegothic-bold-40-size);
+  color: var(--color-black);
+  font-family: var(--font-outfit);
+}
+.guidlines-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--neutrals);
+  height: 1280px;
+  overflow: hidden;
+}

@@ -1,0 +1,281 @@
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.topic-2,
+.topic-2-child {
+  position: absolute;
+  top: 20px;
+  left: 0;
+  width: 16px;
+  height: 24px;
+}
+.topic-2 {
+  top: 1217px;
+  left: 120px;
+  width: 271px;
+  height: 63px;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-outfit);
+}
+.categories-cards {
+  position: absolute;
+  top: 874px;
+  left: 264px;
+  width: 1392px;
+  height: 300px;
+}
+.top {
+  font-weight: 800;
+}
+.categories {
+  font-weight: 600;
+}
+.top-categories-txt-container {
+  width: 100%;
+}
+.top-categories,
+.topic-16 {
+  position: absolute;
+  height: 63px;
+}
+.top-categories {
+  top: 0;
+  left: 31px;
+  display: flex;
+  align-items: center;
+  width: 240px;
+}
+.topic-16 {
+  top: 768px;
+  left: 120px;
+  width: 271px;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-outfit);
+}
+.banner-events-child,
+.banner-events-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-17xl);
+  width: 1680px;
+  height: 567px;
+  object-fit: cover;
+}
+.banner-events-item {
+  border-radius: var(--br-13xl);
+}
+.banner-events,
+.search-bar-item {
+  position: absolute;
+  top: 158px;
+  left: 120px;
+  width: 1680px;
+  height: 567px;
+}
+.search-bar-item {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-azure-200);
+}
+.search1 {
+  position: relative;
+  font-weight: 500;
+}
+.search-container {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-31xl);
+  background-color: var(--color-khaki-100);
+  border: 1px solid var(--color-cornflowerblue);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-7xs) var(--padding-11xl);
+}
+.group-div {
+  position: absolute;
+  height: 45.96%;
+  width: 17.19%;
+  top: 28.56%;
+  right: 2.1%;
+  bottom: 25.48%;
+  left: 80.71%;
+  color: var(--color-black);
+}
+.iconsmap-pin1,
+.rectangle-div {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+}
+.rectangle-div {
+  width: 100%;
+  right: 0;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-31xl);
+  background-color: var(--neutrals);
+}
+.iconsmap-pin1 {
+  width: 17.31%;
+  right: 82.69%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.zip-code-or1 {
+  position: absolute;
+  height: 78.52%;
+  width: 76.95%;
+  top: 10.92%;
+  left: 23.05%;
+  display: inline-block;
+}
+.iconsmap-pin-group {
+  position: absolute;
+  height: 59.41%;
+  width: 45.36%;
+  top: 20.08%;
+  right: 40.57%;
+  bottom: 20.5%;
+  left: 14.07%;
+}
+.rectangle-parent1 {
+  position: absolute;
+  height: 45.96%;
+  width: 27.52%;
+  top: 28.56%;
+  right: 38.82%;
+  bottom: 25.48%;
+  left: 33.66%;
+}
+.date1 {
+  position: absolute;
+  height: 88.49%;
+  width: 51.49%;
+  top: 3.97%;
+  left: 48.51%;
+  display: inline-block;
+}
+.iconscalendar1 {
+  position: absolute;
+  height: 100%;
+  width: 35.99%;
+  top: 0;
+  right: 64.01%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.date-group {
+  position: absolute;
+  height: 52.72%;
+  width: 33.6%;
+  top: 24.48%;
+  right: 32.41%;
+  bottom: 22.8%;
+  left: 33.99%;
+}
+.rectangle-parent2 {
+  position: absolute;
+  height: 45.96%;
+  width: 16.14%;
+  top: 28.56%;
+  right: 21.47%;
+  bottom: 25.48%;
+  left: 62.39%;
+}
+.search-by-event1 {
+  position: absolute;
+  height: 78.52%;
+  width: 83.49%;
+  top: 10.92%;
+  left: 16.48%;
+  white-space: pre-wrap;
+  display: inline-block;
+}
+.iconssearch1 {
+  position: absolute;
+  height: 100%;
+  width: 10.25%;
+  top: 0;
+  right: 89.75%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.search-by-event-artist-venue-group {
+  position: absolute;
+  height: 59.41%;
+  width: 69.44%;
+  top: 20.08%;
+  right: 24.71%;
+  bottom: 20.5%;
+  left: 5.85%;
+}
+.rectangle-parent3 {
+  position: absolute;
+  height: 45.96%;
+  width: 30.35%;
+  top: 28.56%;
+  right: 67.48%;
+  bottom: 25.48%;
+  left: 2.18%;
+}
+.event-cards1,
+.search-bar1 {
+  position: absolute;
+  top: 596px;
+  left: 312px;
+  width: 1296px;
+  height: 104px;
+}
+.event-cards1 {
+  top: 1323px;
+  left: 120px;
+  width: 1680px;
+  height: 1020px;
+}
+.events1 {
+  width: 100%;
+  height: 3385px;
+  position: relative;
+  background-color: var(--neutrals);
+  overflow: hidden;
+  opacity: 0;
+  text-align: left;
+  font-size: var(--montserrat-semibold-14-size);
+  color: var(--color-darkgray);
+  font-family: var(--font-poppins);
+}
+.events1.animate {
+  animation: 1s ease 0s 1 normal forwards fade-in;
+}

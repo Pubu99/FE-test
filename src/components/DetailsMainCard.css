@@ -1,0 +1,277 @@
+.details-main-card-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-orange-300);
+  border: 4px solid var(--color-gray-600);
+  box-sizing: border-box;
+  width: 1488px;
+  height: 528px;
+}
+.see-more-button2 {
+  position: absolute;
+  top: 441px;
+  left: 886px;
+  cursor: pointer;
+}
+.access-time-icon2,
+.date-range-icon2,
+.fmd-good-icon2 {
+  position: absolute;
+  height: 6.06%;
+  width: 2.15%;
+  top: 32.77%;
+  right: 46.24%;
+  bottom: 61.17%;
+  left: 51.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.date-range-icon2,
+.fmd-good-icon2 {
+  right: 62.57%;
+  left: 35.28%;
+}
+.fmd-good-icon2 {
+  top: 23.67%;
+  bottom: 70.27%;
+}
+.featuring-bns {
+  margin: 0;
+}
+.featuring-bns-container1 {
+  width: 100%;
+}
+.backstage-entertainment-events-container,
+.featuring-bns-container {
+  position: absolute;
+  top: 230px;
+  left: 0;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 532px;
+  height: 97px;
+  opacity: 0.8;
+}
+.backstage-entertainment-events-container {
+  top: 163px;
+  width: 531px;
+  height: 68px;
+}
+.pm2,
+.time2 {
+  position: absolute;
+  width: 199px;
+  height: 30px;
+}
+.pm2 {
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+.time2 {
+  top: 114px;
+  left: 282px;
+}
+.date5,
+.div13 {
+  position: absolute;
+  width: 154px;
+}
+.div13 {
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+.date5 {
+  top: 115px;
+  left: 41px;
+  height: 30px;
+}
+.natamu-neda2,
+.viharamahadevi-open-air2 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.viharamahadevi-open-air2 {
+  top: 62px;
+  left: 41px;
+  font-weight: 600;
+  width: 586px;
+  height: 37px;
+}
+.natamu-neda2 {
+  top: 0;
+  left: 0;
+  font-size: var(--tradegothic-bold-40-size);
+  color: var(--color-black);
+  width: 627px;
+  height: 50px;
+}
+.music {
+  position: relative;
+  font-weight: 500;
+}
+.colombo-wrapper,
+.music-wrapper {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gainsboro);
+  border: 1px solid var(--color-gray-700);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-mini);
+}
+.music-wrapper {
+  left: 0;
+  box-sizing: border-box;
+  width: 95px;
+}
+.colombo-wrapper {
+  left: 124px;
+}
+.category-buttons,
+.event-details1 {
+  position: absolute;
+  top: 338px;
+  left: 0;
+  width: 219px;
+  height: 28px;
+  text-align: center;
+  font-size: var(--menu-16px-regular-size);
+  color: var(--color-black);
+}
+.event-details1 {
+  top: 60px;
+  left: 525px;
+  width: 627px;
+  height: 366px;
+  text-align: left;
+  font-size: var(--assignment-1-small-title-size);
+  color: var(--fade-black);
+  font-family: var(--font-outfit);
+}
+.ticket-price-details-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-mediumseagreen-300);
+  border: 1px solid var(--color-gray-800);
+  box-sizing: border-box;
+  width: 288px;
+  height: 247px;
+}
+.lkr7,
+.standing2,
+.ticket-prices {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.ticket-prices {
+  top: 9px;
+  left: 37px;
+  font-size: var(--assignment-1-small-title-size);
+  color: var(--color-mediumblue);
+  text-align: center;
+  justify-content: center;
+  width: 213px;
+  height: 43.4px;
+}
+.lkr7,
+.standing2 {
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  width: 96px;
+  height: 29px;
+}
+.lkr7 {
+  left: 96px;
+  text-align: right;
+  width: 144px;
+}
+.lkr8,
+.ticket-price-model-11 {
+  position: absolute;
+  top: 69px;
+  left: 24px;
+  width: 240px;
+  height: 29px;
+}
+.lkr8 {
+  top: 0;
+  left: 96px;
+  font-weight: 600;
+  color: var(--color-black);
+  text-align: right;
+  display: flex;
+  align-items: center;
+  width: 144px;
+}
+.ticket-price-model-21,
+.ticket-price-model-31 {
+  position: absolute;
+  top: 128.1px;
+  left: 24px;
+  width: 240px;
+  height: 29px;
+}
+.ticket-price-model-31 {
+  top: 187px;
+}
+.ticket-price-details-child2,
+.ticket-price-details-child3 {
+  position: absolute;
+  top: 112.4px;
+  left: 30px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-900);
+  width: 228px;
+  height: 1.2px;
+}
+.ticket-price-details-child3 {
+  top: 171.5px;
+}
+.ticket-price-details1 {
+  position: absolute;
+  top: 133px;
+  left: 1152px;
+  width: 288px;
+  height: 247px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--fade-black);
+  font-family: var(--font-outfit);
+}
+.details-main-card-inner {
+  position: absolute;
+  top: 60px;
+  left: 477px;
+  border-radius: var(--br-29xl);
+  background-color: var(--fade-black);
+  width: 3px;
+  height: 408px;
+  opacity: 0.24;
+}
+.details-main-card1 {
+  position: absolute;
+  top: 921px;
+  left: 216px;
+  width: 1488px;
+  height: 528px;
+}

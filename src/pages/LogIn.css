@@ -1,0 +1,328 @@
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.log-in1 {
+  position: absolute;
+  top: 108px;
+  left: 240px;
+  width: 1440px;
+  height: 953px;
+  overflow: hidden;
+}
+.easyticketlk-txt2 {
+  line-break: anywhere;
+  width: 100%;
+}
+.easyticketlk6 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+}
+.easyticketlk5 {
+  position: absolute;
+  top: 161px;
+  left: 778px;
+  width: 362px;
+  height: 47px;
+}
+.log-in3 {
+  position: relative;
+  font-weight: 500;
+}
+.log-in-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  font-size: var(--tradegothic-bold-40-size);
+}
+.log-in4 {
+  position: relative;
+  font-size: var(--assignment-1-small-title-size);
+  font-weight: 500;
+  font-family: var(--font-avenir);
+  color: var(--color-gray-300);
+  text-align: center;
+}
+.label11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.icon11 {
+  position: absolute;
+  top: 3px;
+  right: 49px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.hide11,
+.password-hide-see11 {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.password-hide-see11 {
+  right: 8.9px;
+  width: 73px;
+  height: 27px;
+  display: none;
+  text-align: right;
+  font-size: var(--font-size-lg);
+  color: var(--color-dimgray-300);
+}
+.label-parent9,
+.text-field21 {
+  align-self: stretch;
+  position: relative;
+}
+.label-parent9 {
+  height: 27px;
+}
+.text-field21 {
+  border: 0;
+  background-color: transparent;
+}
+.error-message11 {
+  width: 101px;
+  position: relative;
+  font-size: var(--montserrat-semibold-14-size);
+  color: var(--color-crimson);
+  display: none;
+}
+.email2 {
+  width: 354px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.password-hide-see12 {
+  position: absolute;
+  top: 0;
+  right: 8.9px;
+  width: 73px;
+  height: 27px;
+  text-align: right;
+  font-size: var(--font-size-lg);
+  color: var(--color-dimgray-300);
+}
+.button6 {
+  width: 354px;
+  position: relative;
+  opacity: 0.5;
+}
+.log-in-parent {
+  position: absolute;
+  top: 44px;
+  left: 64px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-5xl);
+}
+.email-log-in {
+  width: 482px;
+  position: relative;
+  height: 451px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.divider-icon {
+  width: 24px;
+  height: 451px;
+  object-fit: contain;
+}
+.divider4 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 481px;
+  background-color: var(--color-dimgray-200);
+  width: 1px;
+  display: none;
+}
+.social-media-logo-group {
+  position: absolute;
+  top: calc(50% - 15.5px);
+  left: calc(50% - 127.5px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.social-media-signuplogin1 {
+  text-decoration: none;
+  width: 354px;
+  position: relative;
+  border-radius: var(--br-21xl);
+  background-color: var(--neutrals);
+  border: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  height: 56px;
+  overflow: hidden;
+  flex-shrink: 0;
+  color: inherit;
+}
+.social-media-logo2 {
+  width: 32px;
+  position: relative;
+  height: 32px;
+}
+.continue-with-facebook {
+  position: relative;
+}
+.social-media-logo-container {
+  position: absolute;
+  top: calc(50% - 15.5px);
+  left: calc(50% - 144.5px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.icons {
+  width: 24px;
+  position: relative;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icons-parent {
+  position: absolute;
+  top: calc(50% - 15.5px);
+  left: calc(50% - 85px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.button7 {
+  text-decoration: none;
+  width: 354px;
+  position: relative;
+  border-radius: var(--br-21xl);
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  height: 56px;
+  overflow: hidden;
+  flex-shrink: 0;
+  cursor: pointer;
+  text-align: center;
+  color: inherit;
+}
+.social-media-signuplogin-parent {
+  position: absolute;
+  top: 118px;
+  left: 64px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-5xl);
+}
+.log-in-with-other {
+  width: 482px;
+  position: relative;
+  height: 451px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray-100);
+}
+.email-log-in-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  color: var(--color-dimgray-100);
+}
+.forgot-password {
+  position: relative;
+  text-decoration: underline;
+  font-weight: 500;
+}
+.secure-login-with {
+  margin: 0;
+}
+.terms {
+  text-decoration: underline;
+  color: var(--color-darkslategray-100);
+}
+.span4 {
+  color: var(--color-dimgray-100);
+}
+.forgot-password-parent,
+.frame-parent2,
+.link-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.link-text {
+  width: 342px;
+  flex-direction: row;
+  text-align: center;
+  font-size: var(--montserrat-semibold-14-size);
+  color: var(--color-dimgray-100);
+}
+.forgot-password-parent,
+.frame-parent2 {
+  flex-direction: column;
+}
+.forgot-password-parent {
+  gap: var(--gap-5xl);
+  text-align: right;
+  color: var(--color-gray-300);
+}
+.frame-parent2 {
+  position: absolute;
+  top: 104px;
+  left: 226px;
+  gap: var(--gap-21xl);
+}
+.log-in,
+.log-in2 {
+  overflow: hidden;
+  text-align: center;
+}
+.log-in2 {
+  position: absolute;
+  top: 108px;
+  left: 240px;
+  width: 1440px;
+  height: 876px;
+  font-size: var(--menu-16px-regular-size);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-poppins);
+}
+.log-in {
+  width: 100%;
+  height: 1379px;
+  position: relative;
+  background-color: var(--neutrals);
+  opacity: 0;
+  font-size: var(--font-size-29xl);
+  color: var(--fade-black);
+  font-family: var(--font-outfit);
+}
+.log-in.animate {
+  animation: 1s ease 0s 1 normal forwards fade-in;
+}
