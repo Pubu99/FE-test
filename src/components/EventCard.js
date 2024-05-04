@@ -24,19 +24,19 @@ const EventCard = ({
       <img className="event-card8-child" alt="" src="/rectangle-5081@2x.png" />
       <div className="time1">
         <img className="access-time-icon1" alt="" src="/access-time.svg" />
-        <div className="pm1">07:00 PM</div>
+        <div className="time">07:00 PM</div>
       </div>
       <div className="date4">
         <img className="access-time-icon1" alt="" src="/date-range.svg" />
-        <div className="pm1">02.12.2023</div>
+        <div className="date">02.12.2023</div>
       </div>
       <div className="location1">
         <img className="fmd-good-icon1" alt="" src="/fmd-good.svg" />
-        <div className="viharamahadevi-open-air1">
+        <div className="the-location">
           Viharamahadevi Open Air Theater
         </div>
       </div>
-      <div className="natamu-neda1">Natamu Neda</div>
+      <div className="event-name">Natamu Neda</div>
     </div>
   );
 };
