@@ -17,7 +17,13 @@
   height: 32px;
   flex-shrink: 0;
   mix-blend-mode: normal;
+  cursor:pointer;
 }
+
+.home:hover {
+    text-decoration: underline; /* Underline the text on hover */
+}
+  
 .group-child3,
 .log-in5 {
   position: absolute;
@@ -25,7 +31,14 @@
   left: 0;
   width: 96px;
   height: 32px;
+  cursor:pointer;
 }
+
+.group-child3:hover,
+.log-in5:hover {
+  transform: scale(1.1); /* Zoom effect on hover */
+}
+
 .group-child3 {
   border-radius: var(--br-31xl);
   background-color: var(--neutrals);
@@ -43,6 +56,11 @@
   font-size: var(--menu-16px-regular-size);
   color: var(--color-black);
 }
+
+.rectangle-parent4:hover {
+  transform: scale(1.1); /* Zoom effect on hover */
+}
+
 .header-topics {
   position: absolute;
   height: 29.63%;

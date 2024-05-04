@@ -151,6 +151,9 @@ const HomePageFinale = () => {
           alt=""
           src="/Banner@2x.jpg"
         />
+
+      
+        
         <img className="banner-child" alt="" src="/shadow@2x.png" />
         <div className="click-book-container" data-animate-on-scroll>
           <p className="smarter-experiences">
@@ -178,6 +181,7 @@ const HomePageFinale = () => {
           </p>
         </div>
       </main>
+
       <section className="search-bar">
         <div className="search-bar-child" />
         <div className="search-bar-inner">
