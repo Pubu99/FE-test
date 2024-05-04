@@ -219,7 +219,7 @@
 }
 
 .subscribe-button:hover {
-  transform: scale(1.1); /* Zoom effect on hover */
+  transform: scale(1.1); 
   background-color: #FFA31A;
 }
 
@@ -234,7 +234,7 @@
 }
 
 .enter-your-email input::placeholder {
-  color: white !important; /* Change the placeholder color to white */
+  color: white !important; 
 }
 
 
