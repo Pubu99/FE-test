@@ -86,21 +86,22 @@ const Footer = ({ communicationCall, details1Top }) => {
         <Button
           className="subscribe-button"
           disableElevation={true}
-          color="primary"
+          color = "primary"
           variant="contained"
           sx={{ borderRadius: "0px 0px 0px 0px", width: 206.8 }}
         >
           Subscribe
         </Button>
         <div className="email4">
-          <TextField
+        <TextField
             className="enter-your-email"
             color="primary"
             placeholder="Enter Your Email"
             variant="outlined"
             type="email"
             sx={{ "& .MuiInputBase-root": { height: "56px" }, width: "385px" }}
-          />
+/>
+
           <div className="your-email">Your Email</div>
         </div>
         <b className="join-a-newsletter">Join a Newsletter</b>
