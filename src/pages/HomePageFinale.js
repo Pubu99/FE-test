@@ -77,7 +77,7 @@ const HomePageFinale = () => {
     return () => clearInterval(interval);
   }, [banners.length]);
 
-
+/*test*/
 
   return (
     <div className="home-page-finale" data-animate-on-scroll>
