@@ -1,4 +1,4 @@
-import { useCallback, useEffect } from "react";
+import { useCallback, useEffect, useState } from "react";
 import { Button } from "@mui/material";
 import { useNavigate } from "react-router-dom";
 import Footer from "../components/Footer";
@@ -58,6 +58,26 @@ const HomePageFinale = () => {
   const onSeeMoreButtonClick = useCallback(() => {
     navigate("/events");
   }, [navigate]);
+
+  const [bannerIndex, setBannerIndex] = useState(0);
+  const banners = [
+    
+    "/Banner1@2x.jpg", 
+    "/Banner2@2x.jpg", 
+    "/Banner3@2x.jpg",
+    "/Banner4@2x.jpg"
+  
+  ];
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setBannerIndex((prevIndex) => (prevIndex + 1) % banners.length);
+    }, 4000);
+
+    return () => clearInterval(interval);
+  }, [banners.length]);
+
+
 
   return (
     <div className="home-page-finale" data-animate-on-scroll>
@@ -149,7 +169,7 @@ const HomePageFinale = () => {
           className="banner-child"
           loading="eager"
           alt=""
-          src="/Banner@2x.jpg"
+          src={banners[bannerIndex]}
         />
 
       

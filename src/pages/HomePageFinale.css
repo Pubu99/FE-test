@@ -126,6 +126,7 @@
   height: 778px;
   object-fit: cover;
 }
+
 .lk,
 .ticket {
   font-family: var(--font-outfit);
@@ -157,6 +158,7 @@
   font-size: var(--font-size-53xl);
   color: var(--neutrals);
   font-family: var(--font-outfit);
+  overflow: hidden; /* Ensure overflow is hidden */
 }
 .search-bar-child {
   position: absolute;
